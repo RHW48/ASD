@@ -6,8 +6,8 @@
   
 - <a href="https://github.com/RHW48/ASD/blob/main/SORTING/Code/BubbleSorting.c">Bubble Sorting</a>
 
-
-  Bubble Sort adalah algoritme pengurutan sederhana yang berulang kali membandingkan elemen yang berdekatan dari array yang diberikan & menukarnya jika urutannya salah.            
+  Bubble Sorting adalah metode pengurutan algoritma dengan cara melakukan penukaran data secara terus menerus sampai bisa dipastikan dalam suatu iterasi tertentu tidak ada lagi     perubahan/penukaran. Algoritma ini menggunakan perbandingan dalam operasi antar elemennya. 
+  
   <img src="Output/BubbleSorting.png" alt="bs" width="750">
 
 - <a href="https://github.com/RHW48/ASD/blob/main/SORTING/Code/SelectionSorting.c">Selection Sorting</a>
@@ -18,7 +18,7 @@
 
 - <a href="https://github.com/RHW48/ASD/blob/main/SORTING/Code/InsertionSorting.c">Insertion Sorting</a>
 
-  Insertion sort adalah sebuah algoritma pengurutan yang membandingkan dua elemen data pertama, mengurutkannya, kemudian mengecek elemen data berikutnya satu persatu dan             membandingkannya dengan elemen data yang telah diurutkan. Metode Insertion Sort adalah proses pengurutan yang dimulai dari data ke-2 sampai dengan data ke- N, jika ditemukan       data  yang lebih kecil, maka akan ditempatkan (diinsert) diposisi yang seharusnya. 
+  Insertion sorting adalah sebuah algoritma pengurutan yang membandingkan dua elemen data pertama, mengurutkannya, kemudian mengecek elemen data berikutnya satu persatu dan         membandingkannya dengan elemen data yang telah diurutkan. Metode Insertion Sort adalah proses pengurutan yang dimulai dari data ke-2 sampai dengan data ke- N, jika ditemukan       data  yang lebih kecil, maka akan ditempatkan (diinsert) diposisi yang seharusnya. 
 
   <img src="Output/InsertionSorting.png" alt="bs" width="750">
 
