@@ -12,11 +12,12 @@
 
   Selection Sorting dapat didefinisikan sebagai algoritma lain untuk menyortir daftar di mana larik dipecah menjadi dua larik di mana larik pertama seharusnya kosong sedangkan       larik   kedua terdiri dari daftar nilai yang tidak disortir. Program mencari nilai terkecil pada larik kedua dan ketika nilai ditemukan, nilai tersebut telah dipindahkan ke awal   larik pertama yang kosong. Pendekatan ini diulangi lagi dan nilai terkecil berikutnya akan digeser ke indeks kedua dari array pertama. Proses akan terus berulang sampai array     kedua menjadi kosong.
 
-![img 2](Output/SelectionSorting.png)
+  <img src="Output/SelectionSorting.png" alt="bs" width="750">
 
 - <a href="https://github.com/RHW48/ASD/blob/main/SORTING/Code/InsertionSorting.c">Insertion Sorting</a>
 
   Insertion sort adalah sebuah algoritma pengurutan yang membandingkan dua elemen data pertama, mengurutkannya, kemudian mengecek elemen data berikutnya satu persatu dan             membandingkannya dengan elemen data yang telah diurutkan. Metode Insertion Sort adalah proses pengurutan yang dimulai dari data ke-2 sampai dengan data ke- N, jika ditemukan       data  yang lebih kecil, maka akan ditempatkan (diinsert) diposisi yang seharusnya. 
 
-![img 3](Output/InsertionSorting.png)
+  <img src="Output/InsertionSorting.png" alt="bs" width="750">
+
 
