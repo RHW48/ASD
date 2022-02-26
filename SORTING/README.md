@@ -6,13 +6,13 @@
   
 - <a href="https://github.com/RHW48/ASD/blob/main/SORTING/Code/BubbleSorting.c">Bubble Sorting</a>
 
-  Bubble Sorting adalah metode pengurutan algoritma dengan cara melakukan penukaran data secara terus menerus sampai bisa dipastikan dalam suatu iterasi tertentu tidak ada lagi     perubahan/penukaran. Algoritma ini menggunakan perbandingan dalam operasi antar elemennya. 
+  Bubble sorting merupakan sebuah teknik pengurutan data dengan cara menukar dua data yang bersebelahan jika urutan dari data tersebut salah. Algoritma ini dapat mengurutkan data   dari besar ke kecil (Ascending) dan kecil ke besar (Descending).
   
   <img src="Output/BubbleSorting.png" alt="bs" width="750">
 
 - <a href="https://github.com/RHW48/ASD/blob/main/SORTING/Code/SelectionSorting.c">Selection Sorting</a>
 
-  Selection Sorting dapat didefinisikan sebagai algoritma lain untuk menyortir daftar di mana larik dipecah menjadi dua larik di mana larik pertama seharusnya kosong sedangkan       larik   kedua terdiri dari daftar nilai yang tidak disortir. Program mencari nilai terkecil pada larik kedua dan ketika nilai ditemukan, nilai tersebut telah dipindahkan ke awal   larik pertama yang kosong. Pendekatan ini diulangi lagi dan nilai terkecil berikutnya akan digeser ke indeks kedua dari array pertama. Proses akan terus berulang sampai array     kedua menjadi kosong.
+  Selection sorting dapat didefinisikan sebagai algoritma lain untuk menyortir daftar di mana larik dipecah menjadi dua larik di mana larik pertama seharusnya kosong sedangkan       larik   kedua terdiri dari daftar nilai yang tidak disortir. Program mencari nilai terkecil pada larik kedua dan ketika nilai ditemukan, nilai tersebut telah dipindahkan ke awal   larik pertama yang kosong. Pendekatan ini diulangi lagi dan nilai terkecil berikutnya akan digeser ke indeks kedua dari array pertama. Proses akan terus berulang sampai array     kedua menjadi kosong.
 
   <img src="Output/SelectionSorting.png" alt="bs" width="750">
 
