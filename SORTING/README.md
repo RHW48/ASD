@@ -6,7 +6,7 @@
 
 
   Bubble Sort adalah algoritme pengurutan sederhana yang berulang kali membandingkan elemen yang berdekatan dari array yang diberikan & menukarnya jika urutannya salah.            
-  <img src="Output/BubbleSorting.png" alt="bs" width="150" height="90">
+  <img src="Output/BubbleSorting.png" alt="bs" width="450">
 
 - <a href="https://github.com/RHW48/ASD/blob/main/SORTING/Code/SelectionSorting.c">Selection Sorting</a>
 
