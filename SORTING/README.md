@@ -16,3 +16,7 @@ Selection Sorting dapat didefinisikan sebagai algoritma lain untuk menyortir daf
 
 - Insertion Sorting
 
+Insertion sort adalah sebuah algoritma pengurutan yang membandingkan dua elemen data pertama, mengurutkannya, kemudian mengecek elemen data berikutnya satu persatu dan membandingkannya dengan elemen data yang telah diurutkan. Metode Insertion Sort adalah proses pengurutan yang dimulai dari data ke-2 sampai dengan data ke- N, jika ditemukan data yang lebih kecil, maka akan ditempatkan (diinsert) diposisi yang seharusnya. 
+
+![img 3](Output/InsertionSorting.png)
+
