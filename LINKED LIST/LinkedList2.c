@@ -111,12 +111,11 @@ void hapusSembarang()
                     return;
                 }
             }
-            // Now temp pointer points to the previous node of the node to be deleted
-            struct node *del = temp->next;       // del pointer points to the node to be deleted
+            struct node *del = temp->next;      
             temp->next= temp->next->next;
             printf("\nNODE sembarang berhasil dihapus!\n");
             del->next=NULL;
-            free(del);                          // Node is deleted
+            free(del);                    
         }
 
 
