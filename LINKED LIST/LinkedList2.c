@@ -107,7 +107,7 @@ void hapusSembarang()
                 temp=temp->next;
                 if (temp==NULL)
                 {
-                    printf("Tidak bisa simpan data");
+                    printf("Tidak bisa hapus data");
                     return;
                 }
             }
